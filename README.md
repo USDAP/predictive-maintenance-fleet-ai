@@ -20,5 +20,5 @@ End-to-end machine learning pipeline for predictive maintenance
    pip install -r requirements.txt
 
 3. Execute the Notebook:
-   Open the Jupyter Notebook located in the notebook/ folder (Final_Project SectionX-Team
-   Aditya.ipynb) using Jupyter Lab, Jupyter Notebook, or upload it directly to Google Colab.
+   Open the Jupyter Notebook located at `notebook/ Final_Project SectionX-Team
+   Aditya.ipynb` using Jupyter Lab, Jupyter Notebook, or upload it directly to Google Colab.
